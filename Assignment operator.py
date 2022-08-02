@@ -10,6 +10,7 @@ print(b)
 #Substract
 b-=a
 print(b)
+print(a)
 
 #Multiply 
 b*=a
