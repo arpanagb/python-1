@@ -1,0 +1,11 @@
+tuple1=('python','for','all')
+print(tuple1)
+t1=("hello","all",10.5,300)
+print(t1)
+t2=("hello",'pyhton', 10.5,20,(30,40))
+print(t2[4])
+print(t2[4][1])
+a=t2.count(20)
+print(a)
+t3=t1 + t2
+print(t3)
